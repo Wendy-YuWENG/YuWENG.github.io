@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Wendy's websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I am currently a postdoc at MIT Energy Initiative. I am working on long-term energy system expansion optimization integrating power system physics. My research focuses on: linear approximation for power flow (fixed-point theorem-based) and operatinal nonlinearities (enveleop based), and spatial network modeling in capacity expansion models (CEMs). The motivation behind is to better understand how power network physics influences the evolution of future energy systems, including generation, storage, and transmission planning.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I have expertise in optimal control, fixed-point theorems, uncertainty qualification, and Gaussian Process Regression. My research focues on power system operation and optimization emphasizing long-term stability, particular interests include multi-sector cooptimization, and network resilience. I developed several closed-form approximations for power flow and optimal control problems. 
+
+I received my Ph.D. in electric power engineering from the School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore, in 2023. I had experience working with Alstom, UK. I joined projects on developing the Digital Twin of a Li-ion battery energy storage system in Singapore.
 
 A data-driven personal website
 ======
